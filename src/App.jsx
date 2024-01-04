@@ -42,7 +42,7 @@ function App() {
               }`}
             >
               <div>
-                <img src="/images/icon-facebook.svg" />
+                <img src="images/icon-facebook.svg" />
                 <span className={`username ${isDarkMode ? "dark" : "light"}`}>
                   @nathanf
                 </span>
@@ -56,7 +56,7 @@ function App() {
                 </p>
               </div>
               <div>
-                <img src="/images/icon-up.svg" />{" "}
+                <img src="images/icon-up.svg" />{" "}
                 <span className="up">12 Today</span>
               </div>
             </div>
@@ -66,7 +66,7 @@ function App() {
               }`}
             >
               <div>
-                <img src="/images/icon-twitter.svg" />
+                <img src="images/icon-twitter.svg" />
                 <span className={`username ${isDarkMode ? "dark" : "light"}`}>
                   @nathanf
                 </span>
@@ -80,7 +80,7 @@ function App() {
                 </p>
               </div>
               <div>
-                <img src="/images/icon-up.svg" />{" "}
+                <img src="images/icon-up.svg" />{" "}
                 <span className="up">99 Today</span>
               </div>
             </div>
@@ -90,7 +90,7 @@ function App() {
               }`}
             >
               <div>
-                <img src="/images/icon-instagram.svg" />
+                <img src="images/icon-instagram.svg" />
                 <span className={`username ${isDarkMode ? "dark" : "light"}`}>
                   @realnathanf
                 </span>
@@ -104,7 +104,7 @@ function App() {
                 </p>
               </div>
               <div>
-                <img src="/images/icon-up.svg" />{" "}
+                <img src="images/icon-up.svg" />{" "}
                 <span className="up">1099 Today</span>
               </div>
             </div>
@@ -114,7 +114,7 @@ function App() {
               }`}
             >
               <div>
-                <img src="/images/icon-youtube.svg" />
+                <img src="images/icon-youtube.svg" />
                 <span className={`username ${isDarkMode ? "dark" : "light"}`}>
                   Nathan F.
                 </span>
@@ -128,7 +128,7 @@ function App() {
                 </p>
               </div>
               <div>
-                <img src="/images/icon-down.svg" />{" "}
+                <img src="images/icon-down.svg" />{" "}
                 <span className="down">144 Today</span>
               </div>
             </div>
@@ -152,7 +152,7 @@ function App() {
                 >
                   Page Views
                 </span>
-                <img src="/images/icon-facebook.svg" />
+                <img src="images/icon-facebook.svg" />
               </div>
               <div>
                 <span
@@ -163,7 +163,7 @@ function App() {
                   87
                 </span>
                 <span>
-                  <img src="/images/icon-up.svg" />{" "}
+                  <img src="images/icon-up.svg" />{" "}
                   <span className="up">3%</span>
                 </span>
               </div>
@@ -181,7 +181,7 @@ function App() {
                 >
                   Likes
                 </span>
-                <img src="/images/icon-facebook.svg" />
+                <img src="images/icon-facebook.svg" />
               </div>
               <div>
                 <span
@@ -192,7 +192,7 @@ function App() {
                   52
                 </span>
                 <span>
-                  <img src="/images/icon-down.svg" />{" "}
+                  <img src="images/icon-down.svg" />{" "}
                   <span className="down">2%</span>
                 </span>
               </div>
@@ -210,7 +210,7 @@ function App() {
                 >
                   Likes
                 </span>
-                <img src="/images/icon-instagram.svg" />
+                <img src="images/icon-instagram.svg" />
               </div>
               <div>
                 <span
@@ -221,7 +221,7 @@ function App() {
                   5462
                 </span>
                 <span>
-                  <img src="/images/icon-up.svg" />{" "}
+                  <img src="images/icon-up.svg" />{" "}
                   <span className="up">2257%</span>
                 </span>
               </div>
@@ -239,7 +239,7 @@ function App() {
                 >
                   Profile Views
                 </span>
-                <img src="/images/icon-instagram.svg" />
+                <img src="images/icon-instagram.svg" />
               </div>
               <div>
                 <span
@@ -250,7 +250,7 @@ function App() {
                   52k
                 </span>
                 <span>
-                  <img src="/images/icon-up.svg" />{" "}
+                  <img src="images/icon-up.svg" />{" "}
                   <span className="up">1375%</span>
                 </span>
               </div>
@@ -268,7 +268,7 @@ function App() {
                 >
                   Retweets
                 </span>
-                <img src="/images/icon-twitter.svg" />
+                <img src="images/icon-twitter.svg" />
               </div>
               <div>
                 <span
@@ -279,7 +279,7 @@ function App() {
                   117
                 </span>
                 <span>
-                  <img src="/images/icon-up.svg" />{" "}
+                  <img src="images/icon-up.svg" />{" "}
                   <span className="up">303%</span>
                 </span>
               </div>
@@ -297,7 +297,7 @@ function App() {
                 >
                   Likes
                 </span>
-                <img src="/images/icon-twitter.svg" />
+                <img src="images/icon-twitter.svg" />
               </div>
               <div>
                 <span
@@ -308,7 +308,7 @@ function App() {
                   507
                 </span>
                 <span>
-                  <img src="/images/icon-up.svg" />{" "}
+                  <img src="images/icon-up.svg" />{" "}
                   <span className="up">553%</span>
                 </span>
               </div>
@@ -326,7 +326,7 @@ function App() {
                 >
                   Likes
                 </span>
-                <img src="/images/icon-youtube.svg" />
+                <img src="images/icon-youtube.svg" />
               </div>
               <div>
                 <span
@@ -337,7 +337,7 @@ function App() {
                   107
                 </span>
                 <span>
-                  <img src="/images/icon-down.svg" />{" "}
+                  <img src="images/icon-down.svg" />{" "}
                   <span className="down">19%</span>
                 </span>
               </div>
@@ -355,7 +355,7 @@ function App() {
                 >
                   Total Views
                 </span>
-                <img src="/images/icon-youtube.svg" />
+                <img src="images/icon-youtube.svg" />
               </div>
               <div>
                 <span
@@ -366,7 +366,7 @@ function App() {
                   1407
                 </span>
                 <span>
-                  <img src="/images/icon-down.svg" />{" "}
+                  <img src="images/icon-down.svg" />{" "}
                   <span className="down">12%</span>
                 </span>
               </div>
